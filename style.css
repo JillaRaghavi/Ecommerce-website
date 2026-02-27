@@ -1,0 +1,344 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.ecommerce-logo {
+    height: 30px;
+    width: 60px;
+}
+
+.container1-services-section {
+    background-color: white;
+    padding: 5px;
+    padding-top: 12px;
+}
+
+.services-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.services-section-description {
+    color: #616c7c;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.card-services-section {
+    background-color: white;
+    padding: 10px;
+}
+
+.services-card-image {
+    height: 100px;
+    width: 130px;
+    padding-right: 25px;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.services-card-title {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.sevices-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.container1-products-section {
+    background-color: white;
+    padding-top: 10px;
+}
+
+.products-section-headind {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.bg-container-products-section {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    border-radius: 7px;
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    padding: 8px;
+}
+
+.bg-container1-products-section {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    border-radius: 7px;
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    padding: 8px;
+}
+
+.products-card-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.products-card-des {
+    color: white;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.button-products-section {
+    height: 34px;
+    width: 120px;
+    background-color: white;
+    color: #ff9f00;
+    font-weight: bold;
+    border-radius: 25px;
+    border-width: 0px;
+    font-size: 13px;
+}
+
+.modal-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.card-deco {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.modal-description {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.modal-list-item {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.span-deco {
+    font-weight: bold;
+}
+
+.products-section-link {
+    color: #ff9f00;
+}
+
+.card-offers-section {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    background-size: cover;
+    width: 100vh;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.card-tending-blogs {
+    background-color: white;
+    padding: 5px;
+    padding-top: 30px;
+}
+
+.trending-blogs-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card1-tending-blogs {
+    background-color: white;
+}
+
+.image-tending-blogs {
+    height: 35vh;
+    border-radius: 3px;
+}
+
+.trending-blogs-card-title {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.h2-tending-blogs {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.para2-tending-blogs {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.anchor-tending-blogs {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.card-explore-section {
+    background-color: #f5f7fa;
+    padding: 5px;
+    padding-top: 15px;
+}
+
+.h1-explore-section {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card1-explore-section {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.h2-explore-section {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.image-explore-section {
+    border-radius: 15px;
+    height: 90px;
+    width: 90px;
+}
+
+.para-explore-section {
+    color: black;
+    font-size: 13px;
+    font-family: "Roboto";
+}
+
+.anchor-explore-section {
+    color: #ff9f00;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 12px;
+}
+
+.card2-explore-section {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.image1-explore-section {
+    border-radius: 15px;
+    height: 300px;
+    width: 250px;
+}
+
+.card3-explore-section {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.image2-explore-section {
+    height: 90px;
+    width: 90px;
+}
+
+.card-contact-us {
+    height: 40vh;
+    background-color: #f5f7fa;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+}
+
+.h2-contact-us {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.button-contact-us {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 17px;
+    border-color: #ff9f00;
+    border-width: 2px;
+    background-color: transparent;
+    text-align: center;
+    height: 35px;
+    width: 140px;
+}
+
+.card-footer-section {
+    background-color: #19232d;
+}
+
+.image-footer-section {
+    height: 36px;
+    width: 56px;
+}
+
+.icon-setting {
+    height: 40px;
+    width: 40px;
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 15px;
+    background-color: #202b36;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.para1-footer-section {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.list-footer-section {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.h1-footer-section {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.span-text {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.hr-line {
+    color: white;
+}
